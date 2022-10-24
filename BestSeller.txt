@@ -5,3 +5,6 @@ first preface of the book
 
 CHAPTER ONE
 this is chapter one
+
+CHAPTER TWO
+Added chapter two
