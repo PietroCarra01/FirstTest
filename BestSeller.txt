@@ -2,3 +2,6 @@ Book Title
 
 PREFACE
 first preface of the book
+
+CHAPTER TWO
+Added chapter two
